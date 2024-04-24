@@ -1,6 +1,6 @@
 ## 项目简介
 
-熊猫旅途项目包含从首页浏览房子，房子详情，查看评价等功能(功能完善中)。
+熊猫旅途项目包含从首页浏览房子，房子详情，查看评价等功能。
 
 ### 技术栈
 
@@ -60,6 +60,7 @@ npm run dev
 # 部分页面截取
 ## 首页
 ![Alt text](README_files/1.png)
+<img src="README_files/1.png" width="200">
 ![Alt text](README_files/8.jpg)
 
 ## 城市选择
