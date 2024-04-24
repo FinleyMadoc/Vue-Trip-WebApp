@@ -62,16 +62,14 @@ npm run dev
 <img src="README_files/1.png" width="200">
 
 ## 城市选择
-![Alt text](README_files/4.jpg)
-![Alt text](README_files/7.jpg)
+<img src="README_files/4.jpg" width="200">
 
 ## 房屋详情
-![Alt text](README_files/2.jpg)
-![Alt text](README_files/3.jpg)
+<img src="README_files/2.jpg" width="200">
  
 ## 加载页面
-![Alt text](README_files/6.jpg)
+<img src="README_files/6.jpg" width="200">
 
 ## 热门评论
-![Alt text](README_files/5.jpg)
+<img src="README_files/5.jpg" width="200">
 
