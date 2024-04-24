@@ -59,9 +59,7 @@ npm run dev
 
 # 部分页面截取
 ## 首页
-![Alt text](README_files/1.png)
 <img src="README_files/1.png" width="200">
-![Alt text](README_files/8.jpg)
 
 ## 城市选择
 ![Alt text](README_files/4.jpg)
